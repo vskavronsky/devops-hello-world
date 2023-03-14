@@ -97,7 +97,7 @@ hr {
   
     <label for="psw-repeat"><b>Re-type Password</b></label>  
     <input type="password" placeholder="Retype Password" name="psw-repeat" required>  
-    <button type="submit" class="registerbtn">Register</button>    
+    <button type="submit" class="registerbtn"><b>Register</b></button>    
 </form>  
 </body>  
 </html>
